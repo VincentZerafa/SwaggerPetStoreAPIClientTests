@@ -8,7 +8,7 @@ using System.Xml.Linq;
 using SwaggerPetStoreAPIClient.Clients;
 using System.Net;
 
-namespace SwaggerPetStoreAPITests
+namespace SwaggerPetStoreAPIClientTests
 {
     public class PetTests
     {

@@ -8,7 +8,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SwaggerPetStoreAPITests
+namespace SwaggerPetStoreAPIClientTests
 {
     public class UserTests
     {
